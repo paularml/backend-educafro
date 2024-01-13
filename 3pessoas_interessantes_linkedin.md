@@ -2,11 +2,14 @@
 
 https://www.linkedin.com/in/liviarnascimento/
 
+
 https://www.linkedin.com/in/daiane-deponti-bolzan/
 
 https://www.linkedin.com/in/eryckbarreto/
 
 https://www.linkedin.com/in/simaraconceicao/
+
+https://www.linkedin.com/in/adaianealmeida/
 
 https://www.linkedin.com/in/marcia-agostinho-developer/
 
