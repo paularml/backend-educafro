@@ -22,6 +22,12 @@ https://discord.gg/dP23RxGC ⬅ RocketSeat
 
 <br>
 
+## Comunidades no Whatsapp:
+
+https://chat.whatsapp.com/KkzUOLIc0qvHNRyBKvlV0d
+
+<br>
+
 ## Links para comunidades de divulgação de vagas:
 
 ### TELEGRAM:
