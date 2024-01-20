@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=-cLzUD0TQY0
 
 #### Git:
 https://www.youtube.com/watch?v=d5d7DsQ5uXA (link para o download: https://git-scm.com/download/win)
+>Leitura: o que é Git: https://kenzie.com.br/blog/o-que-e-git/ 
 
 ## Git básico
 
