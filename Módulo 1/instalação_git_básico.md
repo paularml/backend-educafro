@@ -23,6 +23,8 @@ https://www.youtube.com/watch?v=9JCEIq7svL4 (não achei um vídeo menor. Para qu
 
 #### Criar conta no Github: 
 https://www.youtube.com/watch?v=Prixgo_pXUI&t=14s (recomendo marcar todas as opções na hora das preferências)
+>Leitura: O que é Github:
+>https://www.eset.com/br/artigos/github-o-que-e/#:~:text=Voc%C3%AA%20sabe%20o%20que%20%C3%A9,entre%20os%20profissionais%20dessa%20%C3%A1rea.
 
 #### Git comandos integração Github:
 https://www.youtube.com/watch?v=aINs3ouaoJk&t=181s (enviar um projeto para o Github pelo terminal)
