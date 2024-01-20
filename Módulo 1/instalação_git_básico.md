@@ -1,7 +1,9 @@
 ## Instalação 
 
 #### Visual Studio Code (VS Code):
-https://www.youtube.com/watch?v=QT-YWT1-YI4
+https://www.youtube.com/watch?v=QT-YWT1-YI
+>Leitura: o que é uma IDE: 
+https://www.redhat.com/pt-br/topics/middleware/what-is-ide
 
 #### NodeJS:
 https://www.youtube.com/watch?v=-cLzUD0TQY0
