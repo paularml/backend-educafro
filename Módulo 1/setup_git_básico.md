@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=aINs3ouaoJk&t=181s (enviar um projeto para o Git
 https://www.youtube.com/watch?v=lv5a80XgzlI (enviar um projeto para o Github pelo VS Code)
 
 #### Autenticação SSH:
-https://www.youtube.com/watch?v=7YVQLZp1jb0
+Ver pdf tutoriial aqui do repositório.
 
 #### Git e Github curso completo:
 https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A (dá para assisistir apenas os que você necessita no momento)
