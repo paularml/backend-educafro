@@ -22,3 +22,5 @@ https://www.linkedin.com/company/github-brazil/
 https://www.linkedin.com/in/lucasscharf/
 
 https://www.linkedin.com/in/spacecoding/
+
+https://www.linkedin.com/in/gessycaborges/
